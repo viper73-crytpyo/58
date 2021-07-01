@@ -1,0 +1,15 @@
+img{
+    border-radius:50%;
+    width:100px;
+}
+body{
+    text-align: center;
+    background: linear-gradient(#2edb85 0%,#9260db 100%);
+    background-repeat: no-repeat;
+}
+.line{
+    height: 6px;
+    background-color: black;
+        width: 60px;
+    margin:8px auto
+}
